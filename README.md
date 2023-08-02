@@ -1,3 +1,20 @@
+![MasterHead](https://web-dev-resources-gjwjfab.spheron.app/images/development.gif)
+<h1 align="center">Hi 👋, I'm Sanskar Saxena</h1>
+<h3 align="center">A passionate Android Developer & Web Developer !!</h3>
+
+<img align="right" alt="Coding Img" width="400" src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanskar91&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskar91" /> </p>
+
+
+
+- 🌱 I’m currently learning **Flutter & SOAP API**
+
+- 💬 Ask me about **Web Development, Android Development, Python or Anything You Want**
+
+- 📫 How to reach me **saxena.sanskar92@gmail.com**
+
+- ⚡ Fun fact **-- While debugging a particularly tricky web application issue, I discovered the solution was a missing semicolon all along. The tiny details matter!😊**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskarsaxena92) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@foxolfworld) 
