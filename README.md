@@ -1,4 +1,4 @@
-![MasterHead](https://web-dev-resources-gjwjfab.spheron.app/images/development.gif)
+<!-- ![MasterHead](https://web-dev-resources-gjwjfab.spheron.app/images/development.gif) -->
 <h1 align="center">Hi 👋, I'm Sanskar Saxena</h1>
 <h3 align="center">A passionate Android Developer & Web Developer !!</h3>
 
