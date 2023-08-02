@@ -7,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanskar91&label=Profile%20views&color=0e75b6&style=flat" alt="Sanskar91" /> </p>
 
 
-
+- 🔭 I’m currently pursuing **B.Tech CSE (Final Year) From Moradabad Institute Of Technology,Moradabad**
+  
 - 🌱 I’m currently learning **Flutter & SOAP API**
 
 - 💬 Ask me about **Web Development, Android Development, Python or Anything You Want**
